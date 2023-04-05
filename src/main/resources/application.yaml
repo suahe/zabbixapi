@@ -1,0 +1,12 @@
+server:
+  port: 9003
+
+logging:
+  level:
+    com.cn.scott: debug
+
+zabbix:
+  config:
+    url: http://180.250.169.52:8080/api_jsonrpc.php
+    username: zhuangchaoxiong
+    password: cqt123456
